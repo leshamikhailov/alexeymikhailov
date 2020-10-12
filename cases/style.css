@@ -163,8 +163,8 @@ a.more {
   display: none;
 }
 .header-for {
-  background: url("images/top_cases.png") no-repeat center top;
-  background: url("images/top_cases.png") no-repeat calc(50% - 115px) top;
+  background: url("images/top.png") no-repeat center top;
+  background: url("images/top.png") no-repeat calc(50% - 115px) top;
   margin-bottom: 8.3vw;
 }
 .header {

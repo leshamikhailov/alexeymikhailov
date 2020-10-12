@@ -163,8 +163,8 @@ a.more {
   display: none;
 }
 .header-for {
-  background: url("images/top.png") no-repeat center top;
-  background: url("images/top.png") no-repeat calc(50% - 115px) top;
+  background: url("images/top_cases.png") no-repeat center top;
+  background: url("images/top_cases.png") no-repeat calc(50% - 115px) top;
   margin-bottom: 8.3vw;
 }
 .header {
@@ -429,7 +429,7 @@ a.switch-lang-mobile {
     margin-right: 0;
   }
   .header-for {
-    background: url("images/Phone-landscape-Tablet-portrait-top.png") no-repeat center top / 100% auto;
+    background: url("images/Cases_Phone-landscape-Tablet-portrait-top.png") no-repeat center top / 100% auto;
   }
   .header {
     padding-top: 50px;
@@ -449,7 +449,7 @@ a.switch-lang-mobile {
     font-size: 24px;
   }
   .header-for {
-    background: url("images/Phone-landscape-Tablet-portrait-top.png") no-repeat center top / 100% auto;
+    background: url("images/Cases_Phone-landscape-Tablet-portrait-top.png") no-repeat center top / 100% auto;
   }
   .header {
     padding-top: 24px;
@@ -583,7 +583,7 @@ a.switch-lang-mobile {
 }
 @media (max-width: 477px) {
   .header-for {
-    background: url("images/Phone-portrait-top.png") no-repeat center bottom / 100% auto;
+    background: url("images/Cases_Phone-portrait-top.png") no-repeat center bottom / 100% auto;
   }
   .header {
     min-height: calc(75.89vw + 140px);
